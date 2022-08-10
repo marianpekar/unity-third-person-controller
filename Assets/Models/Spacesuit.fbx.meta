@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 479b046643482b847850b411ef487d66
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 4447012609936615250
+    second: CharacterArmature|Death
+  - first:
+      74: -6766124179129801036
+    second: CharacterArmature|Gun_Shoot
+  - first:
+      74: -7655272897581899170
+    second: CharacterArmature|HitRecieve
+  - first:
+      74: 4788885153652181527
+    second: CharacterArmature|HitRecieve_2
+  - first:
+      74: 9061338213343248790
+    second: CharacterArmature|Idle
+  - first:
+      74: -6138785498203304139
+    second: CharacterArmature|Idle_Gun
+  - first:
+      74: -3115669507061637269
+    second: CharacterArmature|Idle_Gun_Pointing
+  - first:
+      74: 7240862821619363866
+    second: CharacterArmature|Idle_Gun_Shoot
+  - first:
+      74: 5568892555482406616
+    second: CharacterArmature|Idle_Neutral
+  - first:
+      74: 3016737739417287458
+    second: CharacterArmature|Idle_Sword
+  - first:
+      74: -7342239243898120005
+    second: CharacterArmature|Interact
+  - first:
+      74: -896383910211620263
+    second: CharacterArmature|Kick_Left
+  - first:
+      74: 439134432333356031
+    second: CharacterArmature|Kick_Right
+  - first:
+      74: -370596149276530123
+    second: CharacterArmature|Punch_Left
+  - first:
+      74: -109958323448747609
+    second: CharacterArmature|Punch_Right
+  - first:
+      74: -7580519143377161132
+    second: CharacterArmature|Roll
+  - first:
+      74: 1395189703230314720
+    second: CharacterArmature|Run
+  - first:
+      74: 4505450311895319909
+    second: CharacterArmature|Run_Back
+  - first:
+      74: 701305088695040914
+    second: CharacterArmature|Run_Left
+  - first:
+      74: 6051821925488956567
+    second: CharacterArmature|Run_Right
+  - first:
+      74: 6461627435052548778
+    second: CharacterArmature|Run_Shoot
+  - first:
+      74: 1844899424984560047
+    second: CharacterArmature|Sword_Slash
+  - first:
+      74: -5599002979973759676
+    second: CharacterArmature|Walk
+  - first:
+      74: -9021793991225143758
+    second: CharacterArmature|Wave
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
