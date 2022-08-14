@@ -42,6 +42,4 @@ public abstract class PlayerBaseState : State
     {
         stateMachine.Controller.Move(stateMachine.Velocity * Time.deltaTime);
     }
-
-    protected bool IsGrounded() => Physics.Raycast(stateMachine.transform.position, Vector3.down, 0.1f);
 }

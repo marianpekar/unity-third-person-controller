@@ -20,7 +20,7 @@ public class PlayerMoveState : PlayerBaseState
 
     public override void Tick()
     {
-        if (!IsGrounded())
+        if (!stateMachine.Controller.isGrounded)
         {
             stateMachine.SwitchState(new PlayerFallState(stateMachine));
         }

@@ -19,7 +19,7 @@ public class PlayerFallState : PlayerBaseState
         ApplyGravity();
         Move();
 
-        if (IsGrounded())
+        if (stateMachine.Controller.isGrounded)
         {
             stateMachine.SwitchState(new PlayerMoveState(stateMachine));
         }
